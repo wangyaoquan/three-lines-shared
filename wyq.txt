@@ -1,3 +1,7 @@
 creating a new branch is quick and simple.
 the secondary modify wyq.txt
+<<<<<<< HEAD
 fixed 101 bug.
+=======
+use stash
+>>>>>>> dev
